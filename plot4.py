@@ -11,17 +11,17 @@ z=5*np.sin(x)
 #make plots
 
 #plt figure is a good way to return and number (or name) separate figures
-plt.figure(1)
+plt.figure(2)
 plt.plot(x,y,'k')
 plt.plot(x,z,'b')
 
-plt.figure(5)
+plt.figure(4)
 plt.plot(x,z,'bo')
 
 plt.xlabel(r'$\phi$  /  $\infty$')
 plt.ylabel('${E^2}\div{c^4}$  /  $kg^2$  ')
 
-plt.figure('another plot')
+plt.figure('Another Figure')
 plt.plot(x,y,'black',marker='^')
 plt.xlabel('x')
 plt.ylabel('y')
