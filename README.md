@@ -1,8 +1,10 @@
 # hello-world-python
+**LEARN BY DOING**
 Andrew's Python tutorial. See files in repository to learn how to generate the below outputs.
 
 > Attached: MIT License
 >Copyright (c) 2018 Andrew Garcia
+# Content:
 
 ## hello.py
 Learn how to print strings.
@@ -21,3 +23,6 @@ Learn how to print strings.
 
 ## plot4.py
 <img src="Figure_2.png" alt="drawing" width="300"/><img src="Figure_4.png" alt="drawing" width="300"/><img src="Another_Figure.png" alt="drawing" width="300"/>
+
+## function.py
+Learn how to make and print functions
