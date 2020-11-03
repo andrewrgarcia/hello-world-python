@@ -1,4 +1,6 @@
 # HELLO WORLD PYTHON : LEARN BY DOING
+> Attached: MIT License
+>Copyright (c) 2018 Andrew Garcia
 
 ## HOW TO GET STARTED
 
@@ -11,9 +13,8 @@
 
 This will copy all the files to your computer. Check out each of the .py files and learn by running them and associating the outputs to the written code.  
 
-> Attached: MIT License
->Copyright (c) 2018 Andrew Garcia
-## Content:
+
+## SOME CONTENTS
 
 ## hello.py
 Learn how to print strings.
