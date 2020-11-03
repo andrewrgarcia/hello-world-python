@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Jul 12 19:06:25 2020
-
 @author: andrew
 """
 import numpy as np
